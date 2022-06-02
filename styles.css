@@ -1,0 +1,202 @@
+body {
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+.logo-pic{
+    width: 120px;
+    height: 30px;
+    position: absolute;
+    left: 30px;
+    top: 24px;
+}
+
+.navbar {
+
+    text-align: right;
+
+}
+
+.navbar {
+
+    text-align: right;
+
+}
+
+.navbar li {
+    margin: 15px 15px;
+    float: left;
+    list-style: none;
+    margin-bottom: 4px 4px;
+
+
+}
+
+.navbar ul {
+
+    overflow: auto;
+
+}
+
+.navbar li a {
+    text-decoration: none;
+    padding: 22px 22px;
+    position: relative;
+    left: 750px;
+    color: black;
+    
+}
+
+.navbar li a:hover{
+
+    background: rgb(233, 227, 227);
+    opacity: 0.9;
+    transition: .4s;
+}
+
+
+.h11 {
+    line-height: 1;
+    font-weight: bolder;
+    font-family: 'Merienda', cursive;
+    font-size: 90px;
+}
+
+.h4 {
+
+    font-size: 2.3rem;
+
+}
+
+hr {
+
+    border-width: 6px;
+    border-style: none;
+    border-style: dotted;
+    border-bottom: none;
+    height: none;
+    width: 5%;
+    border-color: rgb(223, 216, 216);
+
+
+}
+
+
+
+h2 {
+    font-size: 2.5rem;
+    color: #63CF9D;
+
+
+}
+
+h3 {
+
+    color: #63CF9D;
+
+}
+
+.top-container {
+
+    position: absolute;
+    top: 250px;
+    left: 480px;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.web {
+    text-decoration-line: underline;
+
+}
+
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+
+.image {
+    margin-bottom: 100px;
+    width: 100%;
+
+}
+
+.web-dev {
+
+
+    width: 50%;
+    float: left;
+    margin: 40px;
+
+}
+
+.mern {
+
+    width: 50%;
+    float: right;
+    margin: 40px;
+
+}
+
+.intro {
+
+    width: 30%;
+    margin: auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+p {
+
+    line-height: 2;
+}
+
+.btn {
+
+    border-style: solid;
+    border-radius: 11px;
+    background-color: #63CF9D;
+    border-color: #63CF9D;
+    color: white;
+    padding: 20px 40px;
+    font-style: normal;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    opacity: 0.8;
+    background-color: black;
+    color: white;
+    border-color: black;
+    transition-duration: .4s;
+ 
+}
+
+
+.bottom-container {
+    background-color: #63CF9D;
+    color: white;
+}
+
+
+.footer-link {
+
+    color: black;
+    font-size: 50;
+}
+
+.bottom-container a{
+
+    padding: 2px;
+}
